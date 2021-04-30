@@ -1,9 +1,17 @@
-# SeungHyunAn
+![header](https://capsule-render.vercel.app/api?text=SeungHyunAn&fontSize=40)
+
+
+Hello :) My name is SeungHyun , i am a backend developer
+
+
+i want to be a scholar who love to learn rather than being a scholar
+so i've been always try studying about computer science 
+
+my life goal is happiness
 
 <p align="center" font-size="28">
         🧸 Tech Stack 🧸
 </p>
-
 
 <p align="center">
     <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
@@ -23,4 +31,12 @@
 <p align="center">
         🎀 Me 🎀
 </p>
+
+<p align="center">
+        <a href="https://velog.io/@ash3767">
+           <img src="https://img.shields.io/badge/Blog-green?style=flat-square&logo=Blog&logoColor=black"/>
+        </a>   
+</p>
+
+
 

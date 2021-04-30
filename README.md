@@ -38,7 +38,9 @@ my life goal is happiness
 <p align="center">
         <a href="https://velog.io/@ash3767">
            <img src="https://img.shields.io/badge/Blog-green?style=flat-square&logo=Blog&logoColor=black"/>
-        </a>   
+        </a>
+        <a href="https://ash982416@gmail.com">
+           <img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=black"/>
+        </a>
 </p>
 
-          

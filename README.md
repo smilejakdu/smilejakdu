@@ -1,16 +1,26 @@
-### Hi there 👋
+# SeungHyunAn
 
-<!--
-**smilejakdu/smilejakdu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center" font-size="28">
+        🧸 Tech Stack 🧸
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+    <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/Java-F6F2F0?style=flat-square&logo=Java&logoColor=red"/></a>
+    <img src="https://img.shields.io/badge/PHP-6e77eb?style=flat-square&logo=PHP&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/Javascript-e6d010?style=flat-square&logo=JavaScript&logoColor=white"/></a>
+</p>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/Django-black?style=flat-square&logo=Django&logoColor=207C4F"/></a>
+    <img src="https://img.shields.io/badge/Node-white?style=flat-square&logo=Node.js&logoColor=20DD80"/></a>
+    <img src="https://img.shields.io/badge/React-white?style=flat-square&logo=React&logoColor=3766AB"/>
+    <img src="https://img.shields.io/badge/Android-207C4F?style=flat-square&logo=Android&logoColor=white"/>
+</p>
+
+
+<p align="center">
+        🎀 Me 🎀
+</p>
+

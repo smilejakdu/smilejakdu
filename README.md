@@ -26,6 +26,7 @@ my life goal is happiness
 <p align="center">
     <img src="https://img.shields.io/badge/Django-black?style=flat-square&logo=Django&logoColor=207C4F"/></a>
     <img src="https://img.shields.io/badge/Node-white?style=flat-square&logo=Node.js&logoColor=20DD80"/></a>
+    <img src="https://img.shields.io/badge/Express-white?style=flat-square&logo=Express&logoColor=20DD80"/></a>
     <img src="https://img.shields.io/badge/React-white?style=flat-square&logo=React&logoColor=3766AB"/>
     <img src="https://img.shields.io/badge/Android-207C4F?style=flat-square&logo=Android&logoColor=white"/>
 </p>

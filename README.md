@@ -21,6 +21,7 @@ my life goal is happiness
     <img src="https://img.shields.io/badge/Java-F6F2F0?style=flat-square&logo=Java&logoColor=red"/></a>
     <img src="https://img.shields.io/badge/PHP-6e77eb?style=flat-square&logo=PHP&logoColor=white"/></a>
     <img src="https://img.shields.io/badge/Javascript-e6d010?style=flat-square&logo=JavaScript&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/Typescript-e6d010?style=flat-square&logo=TypeScript&logoColor=white"/></a>
 </p>
 
 <p align="center">

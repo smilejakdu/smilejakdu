@@ -1,6 +1,3 @@
-![header](https://capsule-render.vercel.app/api?text=SeungHyunAn&fontSize=40)
-
-
 Hello :) My name is SeungHyun , i am a backend developer
 
 

@@ -15,6 +15,7 @@ my life goal is happiness
 <p align="center">
     <img src="https://img.shields.io/badge/cisco-3766AB?style=flat-square&logo=cisco&logoColor=white"/></a>
     <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/Dart-3766AB?style=flat-square&logo=Dart&logoColor=white"/></a>
     <img src="https://img.shields.io/badge/Java-F6F2F0?style=flat-square&logo=Java&logoColor=red"/></a>
     <img src="https://img.shields.io/badge/Javascript-e6d010?style=flat-square&logo=JavaScript&logoColor=white"/></a>
     <img src="https://img.shields.io/badge/Typescript-e6d010?style=flat-square&logo=TypeScript&logoColor=white"/></a>
@@ -22,6 +23,7 @@ my life goal is happiness
 
 <p align="center">
     <img src="https://img.shields.io/badge/Django-black?style=flat-square&logo=Django&logoColor=207C4F"/></a>
+    <img src="https://img.shields.io/badge/Flutter-blue?style=flat-square&logo=Django&logoColor=207C4F"/></a>
     <img src="https://img.shields.io/badge/Node-white?style=flat-square&logo=Node.js&logoColor=20DD80"/></a>
     <img src="https://img.shields.io/badge/Express-white?style=flat-square&logo=Express&logoColor=20DD80"/></a>
     <img src="https://img.shields.io/badge/Nestjs-white?style=flat-square&logo=Nestjs&logoColor=3766AB"/>

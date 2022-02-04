@@ -23,7 +23,7 @@ my life goal is happiness
 
 <p align="center">
     <img src="https://img.shields.io/badge/Django-black?style=flat-square&logo=Django&logoColor=207C4F"/></a>
-    <img src="https://img.shields.io/badge/Flutter-while?style=flat-square&logo=Django&logoColor=blue"/></a>
+    <img src="https://img.shields.io/badge/Flutter-while?style=flat-square&logo=Flutter&logoColor=blue"/></a>
     <img src="https://img.shields.io/badge/Node-white?style=flat-square&logo=Node.js&logoColor=20DD80"/></a>
     <img src="https://img.shields.io/badge/Express-white?style=flat-square&logo=Express&logoColor=20DD80"/></a>
     <img src="https://img.shields.io/badge/Nestjs-white?style=flat-square&logo=Nestjs&logoColor=3766AB"/>

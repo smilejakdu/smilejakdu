@@ -14,7 +14,7 @@ my life goal is happiness
 
 <p align="center">
     <img src="https://img.shields.io/badge/cisco-3766AB?style=flat-square&logo=cisco&logoColor=white"/></a>
-    <img src="https://img.shields.io/badge/Go-3766AB?style=flat-square&logo=go&logoColor=blue"/></a>
+    <img src="https://img.shields.io/badge/Go-FDFDFD?style=flat-square&logo=go&logoColor=blue"/></a>
     <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
     <img src="https://img.shields.io/badge/Dart-3766AB?style=flat-square&logo=Dart&logoColor=white"/></a>
     <img src="https://img.shields.io/badge/Java-F6F2F0?style=flat-square&logo=Java&logoColor=red"/></a>

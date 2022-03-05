@@ -23,14 +23,18 @@ my life goal is happiness
 </p>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Django-black?style=flat-square&logo=Django&logoColor=207C4F"/></a>
+    FRONT & CLIENT : 
     <img src="https://img.shields.io/badge/Flutter-while?style=flat-square&logo=Flutter&logoColor=blue"/></a>
+    <img src="https://img.shields.io/badge/React-white?style=flat-square&logo=React&logoColor=3766AB"/>
+    <img src="https://img.shields.io/badge/Android-207C4F?style=flat-square&logo=Android&logoColor=white"/>
+</p>
+<p align="center">
+    BACK : 
+    <img src="https://img.shields.io/badge/Django-black?style=flat-square&logo=Django&logoColor=207C4F"/></a>
     <img src="https://img.shields.io/badge/Node-white?style=flat-square&logo=Node.js&logoColor=20DD80"/></a>
     <img src="https://img.shields.io/badge/Express-white?style=flat-square&logo=Express&logoColor=20DD80"/></a>
     <img src="https://img.shields.io/badge/Nestjs-white?style=flat-square&logo=Nestjs&logoColor=3766AB"/>
     <img src="https://img.shields.io/badge/Graphql-white?style=flat-square&logo=Graphql&logoColor=FFC0CB"/>
-    <img src="https://img.shields.io/badge/React-white?style=flat-square&logo=React&logoColor=3766AB"/>
-    <img src="https://img.shields.io/badge/Android-207C4F?style=flat-square&logo=Android&logoColor=white"/>
     <img src="https://img.shields.io/badge/Spring-white?style=flat-square&logo=Spring&logoColor=green"/>
 </p>
 

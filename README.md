@@ -25,6 +25,7 @@ FRONT & CLIENT :
 
 BACK :
 <img src="https://img.shields.io/badge/Django-black?style=flat-square&logo=Django&logoColor=207C4F"/></a>
+<img src="https://img.shields.io/badge/FastAPI-black?style=flat-square&logo=FastAPI&logoColor=207C4F"/></a>
 <img src="https://img.shields.io/badge/Node-white?style=flat-square&logo=Node.js&logoColor=20DD80"/></a>
 <img src="https://img.shields.io/badge/Express-white?style=flat-square&logo=Express&logoColor=20DD80"/></a>
 <img src="https://img.shields.io/badge/Nestjs-white?style=flat-square&logo=Nestjs&logoColor=3766AB"/>

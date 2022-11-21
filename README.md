@@ -5,7 +5,8 @@ i want to be a scholar who love to learn rather than being a scholar
 so i've been always try studying about computer science
 also I am interested in web security and network security.
 how to get certificate and how to get the packet 
-and how to penetration test
+
+Currently studying DevOps and penetration test
 
 my life goal is happiness
 

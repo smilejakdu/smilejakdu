@@ -51,4 +51,7 @@ BACK :
         <a href="https://ash982416@gmail.com">
            <img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=black"/>
         </a>
+        <a href="https://www.notion.so/317afc804ab648dbac12d01e524b0438#c8a6751f03aa45dfb8c332ad03059547">
+           <img src="https://img.shields.io/badge/resume-resume-green"/>
+        </a>
 </p>

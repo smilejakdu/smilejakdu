@@ -6,7 +6,7 @@ so i've been always try studying about computer science
 also I am interested in web security and network security.
 how to get certificate and how to get the packet 
 
-Currently studying Java Spring and DevOps and penetration test 
+Currently studying Java Spring and DevOps
 
 my life goal is happiness
 

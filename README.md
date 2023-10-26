@@ -10,6 +10,11 @@ Currently studying Java Spring and DevOps
 
 my life goal is happiness
 
+안녕하세요 학자보단 호학자가 되길 원하는 개발자입니다.
+개발로 세상을 아름답게 만들수 있다고 믿고 있습니다.
+행복하길 원합니다.
+저는 행복하기위해 끊임없이 달려가고 노력하는 개발자입니다.
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)
         🧸 Tech Stack 🧸
 

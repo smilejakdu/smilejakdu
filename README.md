@@ -44,13 +44,3 @@ BACK :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=smilejakdu&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smilejakdu)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smilejakdu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<p align="center">
-        🎀 Me 🎀
-</p>
-
-<p align="center">
-        <a href="https://velog.io/@ash3767">
-           <img src="https://img.shields.io/badge/Blog-green?style=flat-square&logo=Blog&logoColor=black"/>
-        </a>
-</p>

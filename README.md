@@ -1,4 +1,4 @@
-Hello :) My name is SeungHyun , i am a backend developer And DevOps
+Hello :)i am a backend developer And DevOps
 
 
 i want to be a scholar who love to learn rather than being a scholar

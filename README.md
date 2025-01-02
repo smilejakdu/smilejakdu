@@ -23,12 +23,14 @@ my life goal is happiness
 <img src="https://img.shields.io/badge/Go-FDFDFD?style=flat-square&logo=go&logoColor=blue"/></a>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-F6F2F0?style=flat-square&logo=Java&logoColor=red"/></a>
+<img src="https://img.shields.io/badge/Kotlin-F6F2F0?style=flat-square&logo=Java&logoColor=red"/></a>
 <img src="https://img.shields.io/badge/Javascript-e6d010?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Typescript-e6d010?style=flat-square&logo=TypeScript&logoColor=white"/></a>
 
 
 FRONT & CLIENT :
 <img src="https://img.shields.io/badge/React-white?style=flat-square&logo=React&logoColor=3766AB"/>
+<img src="https://img.shields.io/badge/Nextjs-white?style=flat-square&logo=React&logoColor=3766AB"/>
 <img src="https://img.shields.io/badge/Android-207C4F?style=flat-square&logo=Android&logoColor=white"/>
 
 
